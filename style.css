@@ -1,0 +1,17 @@
+.quiz {
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    font-size: 16px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+  }
+  
+  #score {
+    font-weight: bold;
+  }
+  
